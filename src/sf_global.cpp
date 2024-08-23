@@ -22,8 +22,6 @@ bool global_process::load_arguments(int argc, char** argv) {
         }
 
         return true;
-
-        cout << "GV arguments: " << global_variables::arguments.folder_path << endl;
     } else 
         cout << "No arguments provided. Use --help to see help menu" << endl;
 
