@@ -43,11 +43,11 @@ To sort files in a directory, run the sort_f executable followed by the path to 
 - `include/`: Contains the header files for the project.
 - `src/`: Contains the source files for the project.
 - `build/`: Contains build-related files and is the default directory for out-of-source builds.
-
+<!--
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://example.com/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
+-->
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
