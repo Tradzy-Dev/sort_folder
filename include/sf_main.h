@@ -3,7 +3,8 @@
 
 #include <iostream>
 
-using namespace std;
+#include "sf_global.h"
 
+using namespace std;
 
 #endif // SF_MAIN_H

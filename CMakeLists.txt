@@ -22,5 +22,3 @@ target_link_libraries(${EXECUTABLE} PRIVATE ${LIBS})
 set_target_properties(${EXECUTABLE} PROPERTIES
     RUNTIME_OUTPUT_DIRECTORY ${BUILDFOLDER}
 )
-
-message("Compilation finish. Executable generated at: ${BUILDFOLDER}/${EXECUTABLE}")
